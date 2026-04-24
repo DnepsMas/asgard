@@ -198,7 +198,7 @@ def _default_config() -> dict[str, Any]:
             "evening_digest_json_report_path": "output/evening_digest.json",
             "task_receipt_report_path": "output/task_receipt.md",
             "task_receipt_json_report_path": "output/task_receipt.json",
-            "log_path": "output/iris.log",
+            "log_path": "output/asgard.log",
         },
         "scheduler": {
             "enabled": True,

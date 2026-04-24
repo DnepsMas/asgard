@@ -1,4 +1,4 @@
-"""阿斯加德入口 - 支持 `python -m iris` 运行。"""
+"""阿斯加德入口 - 支持 `python -m asgard` 运行。"""
 
 from __future__ import annotations
 

@@ -175,4 +175,4 @@ def show_startup_banner() -> None:
         if isinstance(handler, PinnedConsoleHandler):
             handler.render()
             break
-    emit_console_summary("阿斯加德已启动，完整日志写入 output/iris.log")
+    emit_console_summary("阿斯加德已启动，完整日志写入 output/asgard.log")
