@@ -7,3 +7,4 @@ data/
 storage.json
 tasks.json
 mailbox_state.json
+config.yaml
